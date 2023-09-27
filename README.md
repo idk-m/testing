@@ -1,3 +1,10 @@
+
+# testing
+
+## ¿Para qué?
+
+Este es un archivo de texto de prueba para el ejercicio de GIT
+=======
 # Informe de Pruebas
 
 ## 2. Prueba de Navegación:
@@ -25,4 +32,5 @@
    - **Descripción:** Se realizaron las siguientes pruebas:
      - **Carga de Imágenes:** Se verificó que todas las imágenes se cargaron correctamente sin errores visuales.
      - **Campos Obligatorios en Formularios:** Se verificó que los campos obligatorios en los formularios no pudieron enviarse vacíos, mostrando mensajes de error cuando se intentó hacerlo.
+
 
